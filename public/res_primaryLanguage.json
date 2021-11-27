@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Gaurav. Fictional person for preview purposes. I'm working with newest front-end frameworks like React. For any freelance work you may directly contact me on my Linkedin. Thank you 💀",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,42 +11,42 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Sparca",
+        "startDate": "2021",
+        "description": "Sparca is an electronic application that provides you with many options related to your car spare parts, whether new or used parts.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/sparca/sparca5.jpg",
+          "images/portfolio/sparca/sparca1.jpg",
+          "images/portfolio/sparca/sparca2.jpg",
+          "images/portfolio/sparca/sparca3.jpg"
         ],
-        "url": "",
+        "url": "https://apps.apple.com/al/app/sparca/id1589947126",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React Native"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Servii",
+        "startDate": "2021",
+        "description": "India's first Vehicle Management App for Gated Communities.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/servii/1.png",
+          "images/portfolio/servii/2.png",
+          "images/portfolio/servii/3.png",
+          "images/portfolio/servii/4.png"
         ],
-        "url": "https://github.com",
+        "url": "https://play.google.com/store/apps/details?id=com.servi",
         "technologies": [
           {
             "class": "devicon-react-original",
-            "name": "React"
+            "name": "React Native"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,63 +55,101 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Renew",
+        "startDate": "2021",
+        "description": "Dating app where you find your connections.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/renew/1.png",
+          "images/portfolio/renew/2.png",
+          "images/portfolio/renew/3.png",
+          "images/portfolio/renew/4.png"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React Native"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Automat",
+        "startDate": "2021",
+        "description": "Bluetooth app which able to read/write funtions of Nordic device.",
+        "images": [
+          "images/portfolio/automat/1.png",
+          "images/portfolio/automat/2.png",
+          "images/portfolio/automat/3.png",
+          "images/portfolio/automat/4.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React Native"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Infosys",
+        "title": "System Engineer",
+        "years": "10.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React JS"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "TypeScript"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "RipenApps Technologies",
+        "title": "React Native Developer",
+        "years": "05.2021 - 09.2021",
         "mainTech": [
-          "Angular 7/8"
+          "React Native"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
           "JavaScript",
-          "DHTMLX Gantt"
+          "TypeScript"
+        ]
+      },
+      {
+        "company": "E-Sutra Technologies",
+        "title": "Full Stack Developer",
+        "years": "10.2020 - 05.2021",
+        "mainTech": [
+          "React Native"
+        ],
+        "technologies": [
+          "JavaScript",
+          "Php",
+          "Wordpress"
+        ]
+      },
+      {
+        "company": "Techbode Solutions",
+        "title": "Web Developer Intern",
+        "years": "02.2020 - 10.2020",
+        "mainTech": [
+          "Codeigniter","Android"
+        ],
+        "technologies": [
+          "Java",
+          "Php",
+          "Wordpress",
+          "Android"
         ]
       }
     ]
